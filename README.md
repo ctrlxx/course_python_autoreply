@@ -1,4 +1,8 @@
 # 涂零--微信自动回复机器人
+## Dependence--环境
+* Python--3.6
+* itchat--1.3.10
+* pyqrcode
 
 ## RUN--运行
 ```shell
